@@ -3,7 +3,7 @@
 A collection of awesome scripts, queries, etc. 
 
 - [Cyber threat intelligence](#cyber-threat-intelligence)
-  - [STIX 2)(#stix-2)
+  - [STIX 2](#stix-2)
 - [Go](#go)
 - [Tools](#tools)
 - [APIs](#apis)
