@@ -13,11 +13,19 @@ A collection of awesome scripts, queries, etc.
   - [Web](#web)
   - [TUI](#tui)
 
+## Files
+
 ## Cyber threat intelligence
+
+### Vulnerability intelligence
+
+- [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema): [JSON Schema](https://json-schema.org/) for [CVE JSON format](https://github.com/CVEProject/cve-schema)
+- [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5): list of all CVEs in CVE JSON 5.0 format
 
 ### STIX 2
 
 - [oasis-open/cti-stix-common-objects](https://github.com/oasis-open/cti-stix-common-objects): repository of common STIX 2 objects - contains daily 
+- [oasis-open/cti-stix-elevator](https://github.com/oasis-open/cti-stix-elevator): STIX 1.2 (XML) -> STIX 2 (JSON)
 
 ## Go
 
@@ -29,6 +37,11 @@ A collection of awesome scripts, queries, etc.
 - [facebook/pcicrawler](https://github.com/facebook/pcicrawler): a Python-based command line interface tool which can be used to display, filter and export information about PCI or PCIe buses and devices, as well as their topology.
 - [facebookincubator/below](https://github.com/facebookincubator/below): a time-travelling, command-line interface driven resource monitor for Linux systems
 - [facebookincubator/nvdtools](https://github.com/facebookincubator/nvdtools): Go-based tools for working with the NIST National Vulnerability Database (NVD)
+- [facebookincubator/xar]https://github.com/facebookincubator/xar): a tool for packaging files into a read-only filesystem image powered by SquashFS.
+- [facebookincubator](go2chef): a Go tool for bootstrapping Chef installations.
+- [gchq/sleeper](https://github.com/gchq/sleeper): serverless, cloud-native, log-structured, merge-tree-based key/value store for AWS
+- [gchq/CyberChef](https://github.com/gchq/CyberChef): a Swiss-army knife for transforming data (e.g. compression/decompression, encryption/decryption, disassembly, encoding/decoding, etc.)
+- [gchq/CyberChef-server](https://github.com/gchq/CyberChef-server): REST API for running Cyberchef recipes
 
 ## APIs
 
