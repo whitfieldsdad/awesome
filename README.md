@@ -13,6 +13,7 @@ A collection of awesome scripts, queries, etc.
 - [Frontend development](#frontend-development)
   - [Web](#web)
   - [TUI](#tui)
+- [Cooking](#cooking)
 
 ## Cyber threat intelligence
 
@@ -92,3 +93,7 @@ A collection of awesome scripts, queries, etc.
 ### TUI
 
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole): Rust-based TUI framework
+
+## Cooking
+
+- [Every way to cook a burger (30 ways) - Joshua Weissman](https://www.youtube.com/watch?v=rIUhs7nHbl4)
